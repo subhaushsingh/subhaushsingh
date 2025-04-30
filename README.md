@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h2 align="center">🚀 BTech Student | Web Developer | Backend Enthusiast</h2>
+<h2 align="center"> BTech Student | Web Developer | Backend Enthusiast</h2>
 
 <p align="center">
   <a href="mailto:subhaushsingh@gmail.com">
@@ -28,7 +28,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhaushsingh&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -44,8 +44,6 @@
 </p>
 
 ---
-
-
 
 ### 💡 Quote of the Day
 

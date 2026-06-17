@@ -30,8 +30,6 @@ Real-time market data · TradingView charts · Inngest background workflows · w
 **[Aston Glass](https://github.com/subhaushsingh/Aston-Glass)** — Production landing page  
 Built and deployed for a real client · performance-optimized · responsive
 
-**[Credex Audit](https://github.com/subhaushsingh/Credex-Audit)** — TypeScript
-
 ---
 
 ###  Stack

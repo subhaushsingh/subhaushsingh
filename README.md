@@ -15,10 +15,11 @@
 | Project | PR | What I did |
 |---|---|---|
 | [strapi/strapi](https://github.com/strapi/strapi) | [#26421](https://github.com/strapi/strapi/pull/26421) | Guarded repeatable field `.map()` crash on relations in content-manager |
-| [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) | [#26639](https://github.com/emscripten-core/emscripten/pull/26639) | Allow overriding `-jsD` directives from cmdline |
+| [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) | [#26639](https://github.com/emscripten-core/emscripten/pull/26639) | Allowed overriding `-jsD` directives from cmdline |
 | [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) | [#26318](https://github.com/emscripten-core/emscripten/pull/26318) | Fixed missing `$webSockets` dependency in `emscripten_websocket_new` |
 | [CollaboraOnline/online](https://github.com/CollaboraOnline/online) | [#14444](https://github.com/CollaboraOnline/online/pull/14444) | Rewrote `create-l10n-all-js.pl` in Python |
 | [marketcalls/openalgo](https://github.com/marketcalls/openalgo) | [#898](https://github.com/marketcalls/openalgo/pull/898) | Added precise type hints to trading API helpers |
+| [nextcloud/server](https://github.com/nextcloud/server) | [#58370](https://github.com/nextcloud/server/pull/58370) | Removed redundant `ext-json` Composer requirement since JSON is bundled with PHP 8+ |
 
 ---
 

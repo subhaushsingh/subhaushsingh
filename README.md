@@ -23,17 +23,17 @@
 
 ---
 
-###  Projects
+### Projects
 
-**[Signalist](https://github.com/subhaushsingh/Stock-app)** — Full-stack stock analysis platform  
-Real-time market data · TradingView charts · Inngest background workflows · watchlist with MongoDB · BetterAuth
+**[TCP HTTP Server](https://github.com/subhaushsingh/custom-http-server)** — Zero-dependency HTTP/1.1 & WebSocket server  
+Built from scratch using Node's raw `net` module · Manual request parsing · RFC 6455 WebSockets · Playwright CI/CD
 
 **[Aston Glass](https://github.com/subhaushsingh/Aston-Glass)** — Production landing page  
 Built and deployed for a real client · performance-optimized · responsive
 
 ---
 
-###  Stack
+### Stack
 
 **Languages**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -60,4 +60,3 @@ Built and deployed for a real client · performance-optimized · responsive
 ![Inngest](https://img.shields.io/badge/Inngest-000000?style=flat-square&logoColor=white)
 
 ---
-

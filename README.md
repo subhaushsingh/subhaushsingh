@@ -43,3 +43,11 @@ Computer Science & Engineering student focused on building highly optimized full
 *   **Backend:** Node.js, Express
 *   **Databases:** PostgreSQL, MongoDB
 *   **Tools & Infrastructure:** Git, Prisma, Inngest, Supabase, Playwright
+
+---
+
+###  LeetCode
+
+<a href="https://leetcode.com/u/SUBH_AUSH_SINGH">
+  <img src="https://leetcard.jacoblin.cool/SUBH_AUSH_SINGH?ext=contest&hide=ranking" alt="LeetCode stats" />
+</a>

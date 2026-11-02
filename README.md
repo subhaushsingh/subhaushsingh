@@ -33,6 +33,7 @@ Computer Science & Engineering student focused on building highly optimized full
 | **[CollaboraOnline/online](https://github.com/CollaboraOnline/online)** | [PR #14444](https://github.com/CollaboraOnline/online/pull/14444) — Rewrote `create-l10n-all-js.pl` in Python | Merged |
 | **[marketcalls/openalgo](https://github.com/marketcalls/openalgo)** | [PR #898](https://github.com/marketcalls/openalgo/pull/898) — Added precise type hints to trading API helpers | Merged |
 | **[nextcloud/server](https://github.com/nextcloud/server)** | [PR #58370](https://github.com/nextcloud/server/pull/58370) — Removed redundant `ext-json` Composer requirement | Merged |
+| **[oxynote/oxynote](https://github.com/oxynote/oxynote)** | [PR #277](https://github.com/oxynote/oxynote/pull/277) — Limited list variable options to 100 and rejected repeated values across HTTP and MCP paths | Merged |
 
 ---
 

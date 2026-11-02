@@ -39,7 +39,7 @@ Computer Science & Engineering student focused on building highly optimized full
 
 ###  Technical Arsenal
 
-*   **Languages:** C/C++, Python, JavaScript, TypeScript
+*   **Languages:** C/C++, Python, JavaScript, TypeScript, Golang
 *   **Frontend:** React, Next.js, Tailwind CSS
 *   **Backend:** Node.js, Express
 *   **Databases:** PostgreSQL, MongoDB
